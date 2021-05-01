@@ -1,10 +1,6 @@
 #!/bin/sh
 set -e
 
-zypper install git
-
-git clone https://github.com/azalinux/testing
-
 mkdir /opt/vc
 tar xvf pifirmware_libs.tar.gz -C /opt/vc/
 ln -s /opt/vc/lib/libvcos.so /usr/lib64/libvcos.so.0
