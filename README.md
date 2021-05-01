@@ -6,7 +6,7 @@ This repository is for installing RealVNC Server ARM64 edition on OpenSuse Leap 
 
 INSTALLATION
 
-To install, clone the git respository and using the install script.
+To install, clone the git respository and use the included install script.
 
 I may produce a RPM binary at some point in the future however at this stage a manual install script will suffice.
 
