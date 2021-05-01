@@ -8,7 +8,8 @@ INSTALLATION
 
 To install, clone the git respository and use the included install script:
 
-zypper install git
+zypper install git                           
+
 git clone https://github.com/azalinux/testing
 
 
