@@ -13,6 +13,7 @@ zypper install git
 git clone https://github.com/azalinux/testing
 
 
+
 I may produce a RPM binary at some point in the future however at this stage a manual install script will suffice.
 
 
