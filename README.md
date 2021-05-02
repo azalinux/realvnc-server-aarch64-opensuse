@@ -25,7 +25,7 @@ I may produce a RPM binary at some point in the future however at this stage a m
 
 **Known Issues**
 
-Non Root users currently don't get added to the allowed User list in the RealVNC Server Options (This issue also occurs on PC's running the AMD64 opensuse platform too!).   To get around this, your linux username will need to be added to the 'wheel' group in Opensuse user management:
+Non Root users currently don't get added to the allowed User list in the RealVNC Server Options (This issue seems to be specific to Opensuse & also occurs on PC's running the AMD64 opensuse versions too!).   To get around this, your linux username will need to be added to the 'wheel' group in Opensuse user management:
 
 $ sudo usermod -aG wheeel username
 
