@@ -23,7 +23,7 @@ No activation key is needed if using on a Raspberry Pi device.  ** This is inten
 I may produce a RPM binary at some point in the future however at this stage a manual install script will suffice.
 
 
-** Known Issues **
+**Known Issues
 
 Non Root users currently don't get added to the allowed User list in the RealVNC Server Options --  To use your normal linux login, this will need to be added into the RealVNC server config manually.
 
