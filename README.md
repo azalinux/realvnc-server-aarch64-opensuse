@@ -29,7 +29,7 @@ Non Root users currently don't get added to the allowed User list in the RealVNC
 
 You have 2 options to fix::
 
-RIGHT click on the VNC logo in the system tray and click Options.  Then click Users & Permissions, then click Add to input your current linux user details.
+RIGHT click on the VNC logo in the system tray and click Options.  Then click Users & Permissions, then click Add to input your current linux username.
 
 OR
 
