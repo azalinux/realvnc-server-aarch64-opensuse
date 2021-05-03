@@ -1,6 +1,9 @@
 #!/bin/sh
 set -e
 
+myvar=$(whoami)
+sudo usermod -aG wheel $myvar
+
 sudo mkdir /opt/vc
 sudo tar xvf pifirmware_libs.tar.gz -C /opt/vc/
 sudo ln -s /opt/vc/lib/libvcos.so /usr/lib64/libvcos.so.0
