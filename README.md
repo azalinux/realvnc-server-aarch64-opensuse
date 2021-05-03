@@ -12,6 +12,7 @@ $ zypper install git
 
 $ git clone https://github.com/azalinux/realvnc-server-aarch64-opensuse
 
+Then run the install script (Run as your normal user ; no need to prefix with sudo):
 $ ./install.sh
 
 No activation key is needed if using on a Raspberry Pi device.  ** This is intended for Personal Use only! **
