@@ -1,6 +1,8 @@
 #!/bin/sh
 set -e
 
+sudo zypper install -n system-group-wheel
+
 myvar=$(whoami)
 sudo usermod -aG wheel $myvar
 
