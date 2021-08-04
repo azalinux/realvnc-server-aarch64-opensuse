@@ -18,7 +18,7 @@ $ ./install.sh
 
 No activation key is needed if using on a Raspberry Pi device.  ** This is intended for Personal Use only! **
 
-**Please note - This free Raspberry Pi edition of RealVnc Server will only connect via TCP direct mode rather than UDP direct mode.  You need an Enterprise License to connect via UDP!**
+**Please note - This free Raspberry Pi edition of RealVnc Server will let clients connect via TCP direct mode rather than UDP direct mode. You need an Enterprise License to connect via UDP!**
 
 I may produce a RPM binary at some point in the future however at this stage a manual install script will suffice.
 
