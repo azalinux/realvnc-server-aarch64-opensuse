@@ -1,6 +1,6 @@
 # realvnc-server-aarch64-opensuse
 
-RealVNC Server Version:    7.0.`
+RealVNC Server Version:    7.0.1
 
 This repository is for installing RealVNC Server ARM64 edition on OpenSuse Leap 15.2+ / Tumblweed for your Raspberry Pi device.  Has been tested using a Pi4 with 8gb RAM and on multiple desktop environments including XFCE, LXQT & Plasma.
 
