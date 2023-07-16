@@ -12,6 +12,8 @@ $ sudo zypper install git
 $ git clone https://github.com/azalinux/realvnc-server-aarch64-opensuse
 $ ./install.sh
 ```
+Once finished, reboot the PI and you are done! :)
+
 No activation key is needed if using on a Raspberry Pi device.  ** This is intended for Personal Use only! **
 
 **Please note - This free Raspberry Pi edition of RealVnc Server will let clients connect via TCP direct mode rather than UDP direct mode. You need an Enterprise License to connect via UDP!**
