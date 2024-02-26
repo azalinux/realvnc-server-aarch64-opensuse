@@ -10,6 +10,7 @@ To install, clone the git respository and use the included install script:
 ```
 $ sudo zypper install git                           
 $ git clone https://github.com/azalinux/realvnc-server-aarch64-opensuse
+$ cd realvnc-server-aarch64-opensuse
 $ ./install.sh
 ```
 Once finished, reboot the PI and you are done! :)
